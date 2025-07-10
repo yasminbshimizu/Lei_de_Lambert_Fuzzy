@@ -13,6 +13,10 @@
 </p>
 
 <div align="center">
+  <img src="https://pages.cnpem.br/cbsf/wp-content/uploads/sites/187/2025/02/site.png" alt="Descrição da imagem" width="350"/>
+</div>
+
+<div align="center">
   <img src="https://github.com/user-attachments/assets/ccb6f5f1-0e07-4eb2-aa7c-5f681c57a59c" alt="Descrição da imagem" width="1000"/>
 </div>
 
