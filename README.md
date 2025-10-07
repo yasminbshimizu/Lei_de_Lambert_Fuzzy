@@ -47,3 +47,7 @@ Uma prática comum quando tratamos de projetos experimentais é a análise da co
 **[7]** A. L. P. Mendes, L. A. Nunes, Y. B. Shimizu, and V. F. Wasques. Método de quadrados mínimos a partir de sistemas lineares fuzzy: Uma abordagem computacional. In Caderno de Resumos Expandidos do III Encontro do PGMAT, Rio Claro, SP, January 2025. Departamento de Matemática, Instituto de Geociências e Ciências Exatas, UNESP – Câmpus de Rio Claro. 30 e 31 de janeiro de 2025.
 
 **[8]** V. Y. U. Nicoleti, V. F. Wasques, and E. X. S. Miqueles. Study of fuzzy cognitive maps for modeling inverse problem. Submitted to Computational and Applied Mathematics, 2025.
+
+**[9]**. J. D. Alves. Sequências recorrentes de números fuzzy interativos: aplicações em biomatemática. Projeto de dissertação de mestrado, Universidade Estadual Paulista “Júlio de Mesquita Filho” (Unesp), Programa de Pós-Graduação em Matemática, Rio Claro-  SP, 2023.
+
+**[10]**. L. C. Barros and R. C. Bassanezi. *Tópicos de lógica fuzzy e biomatemática*. Coleção IMECC – Textos Didáticos; volume 5, Instituto de Matemática, Estatística e Computação Científica (IMECC), Universidade Estadual de Campinas, Campinas, SP, 2006‑2010.
