@@ -1,6 +1,6 @@
 # <p align="center"> Lei de Lambert Fuzzy 🧪🤔 </p>
 ### <p align="center"> Previsão de concentrações via Lei de Lambert-Beer: um problema inverso para quadrados mínimos fuzzy. </p>
-<p align="center"> <b> Quadrados mínimos fuzzy · Interatividade Fuzzy· Lei de Lambert-Beer · Problemas inversos </b> </p>
+<p align="center"> <b> Quadrados mínimos fuzzy · Interatividade Fuzzy · Lei de Lambert-Beer · Problemas inversos </b> </p>
 
 <p align="center">
   Projeto desenvolvido a partir de 
@@ -51,3 +51,7 @@ Uma prática comum quando tratamos de projetos experimentais é a análise da co
 **[9]**. J. D. Alves. Sequências recorrentes de números fuzzy interativos: aplicações em biomatemática. Projeto de dissertação de mestrado, Universidade Estadual Paulista “Júlio de Mesquita Filho” (Unesp), Programa de Pós-Graduação em Matemática, Rio Claro-  SP, 2023.
 
 **[10]**. L. C. Barros and R. C. Bassanezi. *Tópicos de lógica fuzzy e biomatemática*. Coleção IMECC – Textos Didáticos; volume 5, Instituto de Matemática, Estatística e Computação Científica (IMECC), Universidade Estadual de Campinas, Campinas, SP, 2006‑2010.
+
+**[11]** B. Bede. Mathematics of Fuzzy Sets and Fuzzy Logic. Heidelberg: Springer, 2012. Cap. 8, p. 137–138. (Studies in Fuzziness and Soft Computing, v. 295).
+ISBN 978-3-642-35220-1.
+‌
