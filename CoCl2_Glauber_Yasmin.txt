@@ -1,0 +1,117 @@
+Method
+Method ;Quick Measurement
+Originator;Biochrom
+Created;10/02/2012
+Settings
+Wavelengths;492 nm
+Measurement Mode;Single wavelength
+Use Timing;False
+Results
+Date and Time;01/05/2025 11:27:09
+Result Validity;Valid
+Data Validity;Valid
+Operator;I-TMP41-W\glauber24022
+Instrument;Biochrom EZ Read 400
+Instrument SN;506415
+Firmware Version;2.2
+Layout
+Plate Definition;
+Plate Layout;Standard
+1: Group 1;Sample wells
+Well;Name;A492
+A1;Sample 1.1;0.029
+A2;Sample 1.2;0.031
+A3;Sample 1.3;0.028
+A4;Sample 1.4;2.866
+A5;Sample 1.5;2.85
+A6;Sample 1.6;2.845
+A7;Sample 1.7;2.702
+A8;Sample 1.8;2.733
+A9;Sample 1.9;2.792
+A10;Sample 1.10;2.621
+A11;Sample 1.11;2.54
+A12;Sample 1.12;2.591
+B1;Sample 1.13;2.42
+B2;Sample 1.14;2.413
+B3;Sample 1.15;2.401
+B4;Sample 1.16;2.272
+B5;Sample 1.17;2.271
+B6;Sample 1.18;2.268
+B7;Sample 1.19;2.147
+B8;Sample 1.20;2.128
+B9;Sample 1.21;2.129
+B10;Sample 1.22;1.814
+B11;Sample 1.23;1.988
+B12;Sample 1.24;1.984
+C1;Sample 1.25;1.827
+C2;Sample 1.26;1.763
+C3;Sample 1.27;1.801
+C4;Sample 1.28;1.691
+C5;Sample 1.29;1.692
+C6;Sample 1.30;1.689
+C7;Sample 1.31;1.551
+C8;Sample 1.32;1.552
+C9;Sample 1.33;1.556
+C10;Sample 1.34;1.354
+C11;Sample 1.35;1.453
+C12;Sample 1.36;1.465
+D1;Sample 1.37;1.213
+D2;Sample 1.38;1.245
+D3;Sample 1.39;1.292
+D4;Sample 1.40;1.142
+D5;Sample 1.41;1.132
+D6;Sample 1.42;1.126
+D7;Sample 1.43;1.003
+D8;Sample 1.44;1.005
+D9;Sample 1.45;1
+D10;Sample 1.46;0.873
+D11;Sample 1.47;0.859
+D12;Sample 1.48;0.856
+E1;Sample 1.49;0.733
+E2;Sample 1.50;0.739
+E3;Sample 1.51;0.733
+E4;Sample 1.52;0.599
+E5;Sample 1.53;0.599
+E6;Sample 1.54;0.606
+E7;Sample 1.55;0.458
+E8;Sample 1.56;0.453
+E9;Sample 1.57;0.473
+E10;Sample 1.58;0.334
+E11;Sample 1.59;0.322
+E12;Sample 1.60;0.33
+F1;Sample 1.61;0.205
+F2;Sample 1.62;0.194
+F3;Sample 1.63;0.193
+F4;Sample 1.64;0.042
+F5;Sample 1.65;0.042
+F6;Sample 1.66;0.045
+F7;Sample 1.67;0.043
+F8;Sample 1.68;0.045
+F9;Sample 1.69;0.044
+F10;Sample 1.70;0.062
+F11;Sample 1.71;0.038
+F12;Sample 1.72;0.04
+G1;Sample 1.73;0.038
+G2;Sample 1.74;0.041
+G3;Sample 1.75;0.04
+G4;Sample 1.76;0.036
+G5;Sample 1.77;0.039
+G6;Sample 1.78;0.04
+G7;Sample 1.79;0.035
+G8;Sample 1.80;0.035
+G9;Sample 1.81;0.037
+G10;Sample 1.82;0.04
+G11;Sample 1.83;0.042
+G12;Sample 1.84;0.043
+H1;Sample 1.85;0.038
+H2;Sample 1.86;0.043
+H3;Sample 1.87;0.037
+H4;Sample 1.88;0.04
+H5;Sample 1.89;0.038
+H6;Sample 1.90;0.046
+H7;Sample 1.91;0.044
+H8;Sample 1.92;0.046
+H9;Sample 1.93;0.047
+H10;Sample 1.94;0.042
+H11;Sample 1.95;0.052
+H12;Sample 1.96;0.042
