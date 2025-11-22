@@ -56,3 +56,11 @@ Uma prática comum quando tratamos de projetos experimentais é a análise da co
 **[11]** B. Bede. Mathematics of Fuzzy Sets and Fuzzy Logic. Heidelberg: Springer, 2012. Cap. 8, p. 137–138. (Studies in Fuzziness and Soft Computing, v. 295).
 ISBN 978-3-642-35220-1.
 ‌
+
+**[12]** PYTHON SOFTWARE FOUNDATION. Python Documentation. Disponível em: https://docs.python.org/.
+
+**[13]** NUMPY DEVELOPERS. NumPy Documentation. Disponível em: https://numpy.org/doc/.
+
+**[14]** PANDAS DEVELOPMENT TEAM. Pandas Documentation. Disponível em: https://pandas.pydata.org/docs/. 
+
+**[15]** MATPLOTLIB DEVELOPMENT TEAM. Matplotlib Documentation. Disponível em: https://matplotlib.org/stable/.
